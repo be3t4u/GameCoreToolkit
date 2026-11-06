@@ -1,0 +1,19 @@
+# CMake generated files
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# VS Code local settings
+.vscode/
+
+# Generated game data
+savegame.txt
+
+# Temporary files
+*.log
+*.tmp
