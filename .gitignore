@@ -16,4 +16,4 @@ savegame.txt
 
 # Temporary files
 *.log
-*.tmp
+*.tmp/gamecore
